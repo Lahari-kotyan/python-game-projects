@@ -34,7 +34,7 @@ while moves < 9:
         show()
         print("Player", player, "wins!")
         break
-        player = "O" if player == "X" else "X"
-    else:
-        show()
-        print("Game is a Draw!")
+    player = "O" if player == "X" else "X"
+else:
+    show()
+    print("Game is a Draw!")
