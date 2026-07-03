@@ -11,6 +11,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 ## 📌 Games Included
 
 - 🎲 Tic Tac Toe
+- Water Jug Problem
 - 🚧 More games coming soon...
 
 ---
@@ -40,8 +41,11 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 ```
 python-game-projects/
 │── README.md
+|__ images
+   |__ tictactoe.py
 │── .gitignore
 │── tictactoe.py
+|__ waterjug.py
 ```
 
 ---
