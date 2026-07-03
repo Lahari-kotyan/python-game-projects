@@ -43,6 +43,9 @@ python-game-projects/
 │── README.md
 |__ images
    |__ tictactoe.py
+   |__ water jug1
+   |__water jug2
+   |__water jug3
 │── .gitignore
 │── tictactoe.py
 |__ waterjug.py
