@@ -12,6 +12,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 
 - 🎲 Tic Tac Toe
 - Water Jug Problem
+- Nim Game
 - 🚧 More games coming soon...
 
 ---
