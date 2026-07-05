@@ -13,6 +13,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 - 🎲 Tic Tac Toe
 - Water Jug Problem
 - Nim Game
+- Simple Chatbot
 - 🚧 More games coming soon...
 
 ---
@@ -47,9 +48,15 @@ python-game-projects/
    |__ water jug1
    |__water jug2
    |__water jug3
+   |__nim1
+   |__nim2
+   |__nim3
+   |__chatbot
 │── .gitignore
 │── tictactoe.py
 |__ waterjug.py
+|__nimgame.py
+|__Simplechatbot.py
 ```
 
 ---
