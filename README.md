@@ -14,6 +14,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 - Water Jug Problem
 - Nim Game
 - Simple Chatbot
+- Missionary and cannibal
 - 🚧 More games coming soon...
 
 ---
