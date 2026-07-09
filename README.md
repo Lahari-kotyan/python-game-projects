@@ -17,6 +17,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 - Missionary and cannibal
 - Nqueen
 - Puzzle game
+- Alpha beta (pruning)game
 - 🚧 More games coming soon...
 
 ---
