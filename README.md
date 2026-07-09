@@ -15,6 +15,8 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 - Nim Game
 - Simple Chatbot
 - Missionary and cannibal
+- Nqueen
+- Puzzle game
 - 🚧 More games coming soon...
 
 ---
