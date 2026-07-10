@@ -61,6 +61,10 @@ python-game-projects/
 |__ waterjug.py
 |__nimgame.py
 |__Simplechatbot.py
+|__alphabeta.py
+|__nqueen.py
+|__missionaryandcannibal.py
+|__puzzle.py
 ```
 
 ---
