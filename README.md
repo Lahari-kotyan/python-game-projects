@@ -48,7 +48,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 python-game-projects/
 │── README.md
 |__ images
-   |__ tictactoe.py
+   |__ tictactoe
    |__ water jug1
    |__water jug2
    |__water jug3
