@@ -19,6 +19,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 - Puzzle game
 - Alpha beta (pruning)game
 - Cross word Puzzle
+- Random Number guess 
 - 🚧 More games coming soon...
 
 ---
