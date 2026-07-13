@@ -18,6 +18,7 @@ This repository showcases beginner-friendly to intermediate Python projects, foc
 - Nqueen
 - Puzzle game
 - Alpha beta (pruning)game
+- Cross word Puzzle
 - 🚧 More games coming soon...
 
 ---
@@ -55,7 +56,14 @@ python-game-projects/
    |__nim1
    |__nim2
    |__nim3
+   |__nqueen
+   |__alphabeta
    |__chatbot
+   |__MC1
+   |__MC2
+   |__crossword
+   |__puzzle
+
 │── .gitignore
 │── tictactoe.py
 |__ waterjug.py
@@ -65,6 +73,8 @@ python-game-projects/
 |__nqueen.py
 |__missionaryandcannibal.py
 |__puzzle.py
+|__crossword.py
+|__randomnumberguess.py
 ```
 
 ---
